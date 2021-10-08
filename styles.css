@@ -1,0 +1,33 @@
+.alpha {
+    color: black;
+    font-size: 25px;
+  }
+  
+  header {
+    color: hsl(0, 84%, 23%);
+    font-size: 50px;
+  }
+  .list {
+    font-size: 20px;
+      background-color: lightblue;
+    width: 300px;
+    border: 15px;
+    border-style: solid;
+    border-color: darkblue;
+    padding: 20px;
+    margin: 20px;
+  }
+  
+  .about-me {
+    background-color: goldenrod;
+    border: 20px solid red;
+    border-radius: 20px;
+    border-style: groove;
+    border-color: blueviolet;
+    font-size: 40px;
+    font-style: bold;
+  
+    
+  }
+   
+  
